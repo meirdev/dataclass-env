@@ -1,6 +1,6 @@
 # dataclass-env
 
-`dataclass-env` is a library for loading environment variables into `dataclasses`.
+`dataclass-env` is a library for loading environment variables into `dataclasses`. Inspired by https://github.com/caarlos0/env.
 
 ## Example
 
